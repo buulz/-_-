@@ -35,12 +35,12 @@ images = [  # картинки для Наших товаров
     {"src": "sneakers.png", "alt": "Картинка 1", "text": "Nike"},
     {"src": "sneakers2.png", "alt": "Картинка 2", "text": "Adidas"},
     {"src": "sneakers3.png", "alt": "Картинка 3", "text": "Convers"},
-    {"src": "sneakers4.png", "alt": "Картинка 3", "text": "Nike"},
-    {"src": "sneakers5.png", "alt": "Картинка 3", "text": "Classic-boot"},
-    {"src": "sneakers6.png", "alt": "Картинка 3", "text": "Nike"},
-    {"src": "sneakers7.png", "alt": "Картинка 3", "text": "Текст для картинки 3"},
-    {"src": "sneakers8.png", "alt": "Картинка 3", "text": "Diesel"},
-    {"src": "sneakers9.png", "alt": "Картинка 3", "text": "Текст для картинки 3"},
+    {"src": "sneakers4.png", "alt": "Картинка 4", "text": "Nike"},
+    {"src": "sneakers5.png", "alt": "Картинка 5", "text": "Classic-boot"},
+    {"src": "sneakers6.png", "alt": "Картинка 6", "text": "Nike"},
+    {"src": "sneakers7.png", "alt": "Картинка 7", "text": "Текст для картинки 3"},
+    {"src": "sneakers8.png", "alt": "Картинка 8", "text": "Diesel"},
+    {"src": "sneakers9.png", "alt": "Картинка 9", "text": "Текст для картинки 3"},
 ]
 
 
